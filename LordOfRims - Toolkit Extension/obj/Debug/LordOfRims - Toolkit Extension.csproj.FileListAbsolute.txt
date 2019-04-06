@@ -1,0 +1,18 @@
+C:\Users\donav\Desktop\LordOfRims - ToolkitExpansion\LordOfRims - Toolkit Extension\LordOfRims - Toolkit Extension\bin\Debug\Defs\StoreIncidents.xml
+C:\Users\donav\Desktop\LordOfRims - ToolkitExpansion\LordOfRims - Toolkit Extension\LordOfRims - Toolkit Extension\bin\Debug\LordOfRims - Toolkit Extension.dll
+C:\Users\donav\Desktop\LordOfRims - ToolkitExpansion\LordOfRims - Toolkit Extension\LordOfRims - Toolkit Extension\bin\Debug\LordOfRims - Toolkit Extension.pdb
+C:\Users\donav\Desktop\LordOfRims - ToolkitExpansion\LordOfRims - Toolkit Extension\LordOfRims - Toolkit Extension\bin\Debug\Assembly-CSharp.dll
+C:\Users\donav\Desktop\LordOfRims - ToolkitExpansion\LordOfRims - Toolkit Extension\LordOfRims - Toolkit Extension\bin\Debug\TheThirdAge.dll
+C:\Users\donav\Desktop\LordOfRims - ToolkitExpansion\LordOfRims - Toolkit Extension\LordOfRims - Toolkit Extension\bin\Debug\TwitchToolkit.dll
+C:\Users\donav\Desktop\LordOfRims - ToolkitExpansion\LordOfRims - Toolkit Extension\LordOfRims - Toolkit Extension\bin\Debug\UnityEngine.dll
+C:\Users\donav\Desktop\LordOfRims - ToolkitExpansion\LordOfRims - Toolkit Extension\LordOfRims - Toolkit Extension\bin\Debug\TextMeshPro-1.0.55.56.0b11.dll
+C:\Users\donav\Desktop\LordOfRims - ToolkitExpansion\LordOfRims - Toolkit Extension\LordOfRims - Toolkit Extension\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\donav\Desktop\LordOfRims - ToolkitExpansion\LordOfRims - Toolkit Extension\LordOfRims - Toolkit Extension\bin\Debug\NAudio.dll
+C:\Users\donav\Desktop\LordOfRims - ToolkitExpansion\LordOfRims - Toolkit Extension\LordOfRims - Toolkit Extension\bin\Debug\NVorbis.dll
+C:\Users\donav\Desktop\LordOfRims - ToolkitExpansion\LordOfRims - Toolkit Extension\LordOfRims - Toolkit Extension\bin\Debug\UnityEngine.UI.dll
+C:\Users\donav\Desktop\LordOfRims - ToolkitExpansion\LordOfRims - Toolkit Extension\LordOfRims - Toolkit Extension\bin\Debug\0Harmony.dll
+C:\Users\donav\Desktop\LordOfRims - ToolkitExpansion\LordOfRims - Toolkit Extension\LordOfRims - Toolkit Extension\obj\Debug\LordOfRims - Toolkit Extension.csprojAssemblyReference.cache
+C:\Users\donav\Desktop\LordOfRims - ToolkitExpansion\LordOfRims - Toolkit Extension\LordOfRims - Toolkit Extension\obj\Debug\LordOfRims - Toolkit Extension.csproj.CoreCompileInputs.cache
+C:\Users\donav\Desktop\LordOfRims - ToolkitExpansion\LordOfRims - Toolkit Extension\LordOfRims - Toolkit Extension\obj\Debug\LordOfRims - Toolkit Extension.csproj.CopyComplete
+C:\Users\donav\Desktop\LordOfRims - ToolkitExpansion\LordOfRims - Toolkit Extension\LordOfRims - Toolkit Extension\obj\Debug\LordOfRims - Toolkit Extension.dll
+C:\Users\donav\Desktop\LordOfRims - ToolkitExpansion\LordOfRims - Toolkit Extension\LordOfRims - Toolkit Extension\obj\Debug\LordOfRims - Toolkit Extension.pdb

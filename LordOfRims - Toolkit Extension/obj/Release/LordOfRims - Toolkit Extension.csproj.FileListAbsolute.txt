@@ -1,0 +1,8 @@
+C:\Users\donav\Desktop\LordOfRims - ToolkitExpansion\LordOfRims - Toolkit Extension\LordOfRims - Toolkit Extension\bin\Release\Defs\StoreIncidents.xml
+C:\Users\donav\Desktop\LordOfRims - ToolkitExpansion\LordOfRims - Toolkit Extension\LordOfRims - Toolkit Extension\obj\Release\LordOfRims - Toolkit Extension.csproj.CoreCompileInputs.cache
+C:\Users\donav\Desktop\LordOfRims - ToolkitExpansion\LordOfRims - Toolkit Extension\LordOfRims - Toolkit Extension\obj\Release\LordOfRims - Toolkit Extension.dll
+C:\Users\donav\Desktop\LordOfRims - ToolkitExpansion\LordOfRims - Toolkit Extension\LordOfRims - Toolkit Extension\obj\Release\LordOfRims - Toolkit Extension.pdb
+C:\Users\donav\Desktop\LordOfRims - ToolkitExpansion\LordOfRims - Toolkit Extension\LordOfRims - Toolkit Extension\bin\Release\About\About.xml
+C:\Users\donav\Desktop\LordOfRims - ToolkitExpansion\LordOfRims - Toolkit Extension\LordOfRims - Toolkit Extension\bin\Release\LordOfRims - Toolkit Extension.dll
+C:\Users\donav\Desktop\LordOfRims - ToolkitExpansion\LordOfRims - Toolkit Extension\LordOfRims - Toolkit Extension\bin\Release\LordOfRims - Toolkit Extension.pdb
+C:\Users\donav\Desktop\LordOfRims - ToolkitExpansion\LordOfRims - Toolkit Extension\LordOfRims - Toolkit Extension\obj\Release\LordOfRims - Toolkit Extension.csprojAssemblyReference.cache

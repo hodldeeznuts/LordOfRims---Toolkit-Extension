@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+  <TwitchToolkit.Incidents.StoreIncidentVariables>
+    <defName>BuyDwarf</defName>
+    <label>buy dwarf</label>
+    <abbreviation>buydwarf</abbreviation>
+    <cost>1500</cost>
+    <eventCap>2</eventCap>
+    <incidentHelper>LordOfRims___Toolkit_Extension.BuyDwarf</incidentHelper>
+    <karmaType>Good</karmaType>
+    <minPointsToFire>1500</minPointsToFire>
+    <syntax>!buyevent buydwarf 1500</syntax>
+    <variables>1</variables>
+  </TwitchToolkit.Incidents.StoreIncidentVariables>
+</Defs>
